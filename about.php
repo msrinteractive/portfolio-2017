@@ -5,7 +5,7 @@
                 <h2>Personal Bio</h2>
                 <div class="fh5co-spacer fh5co-spacer-sm"></div>
                 <p>
-                    <img src="images/mike.png" alt="Free HTML5 template by FREEHTML5.co"
+                    <img src="images/mike.png"
                          class="img-rounded img-responsive mike animated fadeInRightBig"></p>
 
                 <p class="dark-text">
@@ -14,7 +14,7 @@
                     From that moment on my passion for computers grew exponentially.
                     I learned HTML, photoshop, and linux as a teen.
                     I had my first experiences with hardware upgrades, overclocking, MS Windows, and hardware
-                    troubleshooting before age 15. At age 15 I held a tech support position on the Groton, CT naval
+                    troubleshooting before age 15. At age 15 I held a tech support position at the Groton, CT naval
                     submarine base.
                     I built windows 3.11 and windows 95 desktop workstations and responded to helpdesk requests.
                     In high school I studied accounting and business law in addition to digital imaging, video editing,
