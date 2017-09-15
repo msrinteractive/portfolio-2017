@@ -41,8 +41,7 @@
                     </div>
                     <div class="form-group">
                         <div class="col-sm-10 col-sm-offset-2">
-                            <input id="submit" name="submit" type="submit" value="Send Message"
-                                   class="btn btn-primary cta animated infinite pulse">
+                            <button id="submit" name="submit" type="submit" class="btn cta animated infinite pulse">Send Message</button>
                         </div>
                     </div>
                     <div class="form-group">
