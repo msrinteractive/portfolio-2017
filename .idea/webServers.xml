@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f3730ac-df52-462b-a4a7-9d0e6f6fc06d" name="msrinteractive" url="http://ftp.msrinteractive.com">
+        <fileTransfer host="ftp.msrinteractive.com" port="22" rootFolder="/home/msrinteractive/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
