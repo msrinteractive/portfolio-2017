@@ -189,7 +189,7 @@ if ($errName || $errEmail || $errMessage || $errHuman) { ?>
         <div class="row">
             <div class="text-center">
                 <h1 class="text-center">
-                    <img src="./images/mike.png" alt="Michael Riccardi" class="projects-mike-image">
+                    <img src="./images/mike.png" alt="Michael Riccardi" class="mike">
                 </h1>
                 <h3> Mike Riccardi </h3>
                 <h1 class="text-center">

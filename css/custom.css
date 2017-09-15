@@ -97,3 +97,6 @@ i {
 #fh5co-header{
     padding-bottom: 20px;
 }
+.thumbnail > a > img{
+    border: 10px solid #222;
+}
