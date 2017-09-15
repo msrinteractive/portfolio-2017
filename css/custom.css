@@ -65,6 +65,7 @@ i {
 }
 .thumbnail{
     min-height: 450px;
+    border-radius: 12px;
 }
 #about, #contact{
     display: none;
