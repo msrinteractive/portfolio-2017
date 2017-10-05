@@ -34,21 +34,6 @@ if ($errName || $errEmail || $errMessage || $errHuman) { ?>
         <div class="row">
             <div class="col-xs-12 col-md-6 site">
                 <div class="thumbnail">
-                    <a href="http://msrinteractive.com/crashclinicnix" target="_blank">
-                        <img src="./images/nix.jpg" alt="" class="img-responsive">
-                    </a>
-                    <div class="caption">
-                        <h3 class="text-center">
-                            Crash Clinic Linux
-                        </h3>
-                        <p class="text-center">
-                            Linux Distribution for pentesting, hardware troubleshooting, and development
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-md-6 site">
-                <div class="thumbnail">
                     <a href="http://msrinteractive.com/robo" target="_blank">
                         <img src="./images/robo.jpg" alt="" class="img-responsive">
                     </a>
@@ -58,6 +43,21 @@ if ($errName || $errEmail || $errMessage || $errHuman) { ?>
                         </h3>
                         <p class="text-center">
                             Music Streaming app written in JavaScript, jQuery
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-6 site">
+                <div class="thumbnail">
+                    <a href="http://msrinteractive.com/crashclinicnix" target="_blank">
+                        <img src="./images/nix.jpg" alt="" class="img-responsive">
+                    </a>
+                    <div class="caption">
+                        <h3 class="text-center">
+                            Crash Clinic Linux
+                        </h3>
+                        <p class="text-center">
+                            Linux Distribution for pentesting, hardware troubleshooting, and development
                         </p>
                     </div>
                 </div>
@@ -171,15 +171,15 @@ if ($errName || $errEmail || $errMessage || $errHuman) { ?>
             </div>
             <div class="col-xs-12 col-md-6 site">
                 <div class="thumbnail">
-                    <a href="http://msrinteractive.com/password-generator" target="_blank">
-                        <img class="img-responsive" src="images/pw-gen.jpg"/>
+                    <a href="http://daliceelizabeth.com" target="_blank">
+                        <img class="img-responsive" src="images/dalice.jpg"/>
                     </a>
                     <div class="caption">
                         <h3 class="text-center">
-                            3 Magic Words - Password Generator
+                            Dalice Elizabeth Winery
                         </h3>
                         <p class="text-center">
-                            JavaScript
+                            PHP, Wordpress, CSS
                         </p>
                     </div>
                 </div>

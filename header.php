@@ -74,7 +74,8 @@
         <li class="active"><a href="" class="projects-trigger">Projects</a></li>
         <li><a href="" class="about-trigger">About</a></li>
         <li><a href="" class="contact-trigger">Contact</a></li>
-        <li><a href="./resume/msr-resume-2017.pdf" download="MSRinteractive.pdf">Resume</a></li>
+        <li><a href="./resume/Michael_Riccardi_2017_Resume.pdf" download="Michael_Riccardi_2017_Resume.pdf">Resume</a></li>
+        <li><a href="../blog/" target="_blank">Blog</a></li>
     </ul>
     <h3 class="fh5co-lead">Connect with me</h3>
     <p class="fh5co-social-icons">
@@ -100,3 +101,4 @@
     </div>
 </header>
 <!-- END .header -->
+<div id="fh5co-main">

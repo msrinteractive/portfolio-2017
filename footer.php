@@ -1,3 +1,4 @@
+</div>
 <!--footer-->
 <footer id="fh5co-footer">
     <div class="container">
@@ -16,6 +17,10 @@
                     <a href="" class="about-trigger">About Me</a>
                     &nbsp; | &nbsp;
                     <a href="" class="contact-trigger">Contact Me</a>
+                     &nbsp; | &nbsp;
+                    <a href="../blog" target="_blank">Blog</a>
+                    &nbsp; | &nbsp;
+                    <a href="./resume/Michael_Riccardi_2017_Resume.pdf" download="Michael_Riccardi_2017_Resume.pdf">Resume</a>
                 </p>
                 <p>
                     <small>&copy; MSR Interactive 2017 | Mike Riccardi | Like my code? <a href="https://github.com/msrinteractive/Boilerplate-a-mundo" target="_blank"> Get the boilerplate for this design </a></small>
